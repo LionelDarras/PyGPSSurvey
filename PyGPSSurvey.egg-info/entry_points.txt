@@ -1,0 +1,3 @@
+[console_scripts]
+pygpssurvey = pygpssurvey.__main__:main
+

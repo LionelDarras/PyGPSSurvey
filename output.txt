@@ -1,0 +1,2 @@
+pointnum;pointname;lon;lon_dir;lat;lat_dir;alt;alt_units
+1;;5.553804883333333;E;45.47879819999999;N;503.7;
